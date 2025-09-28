@@ -1,4 +1,4 @@
-````markdown
+
 # 📥 Torrent & Magnet Downloader
 
 **Torrent & Magnet Downloader** — это минималистичный Python-клиент для загрузки файлов по протоколу BitTorrent.  
@@ -22,7 +22,7 @@
    ```bash
    git clone https://github.com/kutssp/torrent-downloader.git
    cd torrent-downloader
-````
+   ````
 
 2. Установите зависимости:
 
