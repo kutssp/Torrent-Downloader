@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="assets/downloader.png" alt="Torrent-Downloader Logo" width="200"/>
+</p>
 
-# 📥 Torrent & Magnet Downloader
+## 📥 Torrent & Magnet Downloader
 
 **Torrent & Magnet Downloader** — это минималистичный Python-клиент для загрузки файлов по протоколу BitTorrent.  
 Поддерживает работу как с **.torrent файлами**, так и с **magnet-ссылками**.
