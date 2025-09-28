@@ -51,7 +51,7 @@
 2. Запустите скрипт:
 
    ```bash
-   python downloader.py
+   python main.py
    ```
 
 ---
